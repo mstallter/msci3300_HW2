@@ -1,0 +1,18 @@
+body {background-color: yellow;}
+
+.title {
+	text-align: center;
+	font-weight: bold;
+	font-family: Arial, Geneva;
+}
+
+.subTitle {
+	text-align: left;
+	font-weight: bold;
+	font-family: Calibri;
+}
+
+.generalText {
+	font-family: Calibri;
+	text-align: center;
+}
