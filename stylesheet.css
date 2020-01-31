@@ -14,5 +14,20 @@ body {background-color: yellow;}
 
 .generalText {
 	font-family: Calibri;
+	text-align: left;
+}
+
+.subHeading {
+	font-family: Arial, Geneva;
+	font-size: 18;
+	font-weight: bold;
 	text-align: center;
+	color: gray;
+}
+
+.travelImg {
+	width: 500px;
+	height: 500px;
+	image-orientation: from-image;
+	margin-bottom: 10px
 }
