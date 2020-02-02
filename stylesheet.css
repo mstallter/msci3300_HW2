@@ -1,11 +1,19 @@
 body {background-color: yellow;}
 
+
+table, tr, th {
+	border: 2px solid black;
+	border-collapse: collapse;
+	margin-left:auto; 
+    margin-right:auto;
+}
+
 .title {
 	text-align: center;
 	font-weight: bold;
 	font-family: Arial, Geneva;
 }
-
+	
 .subTitle {
 	text-align: left;
 	font-weight: bold;
@@ -28,6 +36,38 @@ body {background-color: yellow;}
 .travelImg {
 	width: 500px;
 	height: 500px;
-	image-orientation: from-image;
-	margin-bottom: 10px
 }
+
+
+.amsterdam {
+	font-weight: bold;
+	font-family: Calibri;
+	position: relative;
+	top: 600px;
+	left:-300px;
+}
+
+.pic1 {
+  position: absolute;
+  right: 0px;
+  top: 100px;
+  width: 400px;
+  padding: 10px;
+}
+	
+.pic2 {
+  position: absolute;
+  right: 0px;
+  top: 450px;
+  width: 400px;
+  padding: 10px;
+}
+	
+
+.amsterdamPic {
+	position: absolute;
+	top: 1000px;
+	left: 0px;
+	height: 500px;
+}
+	
