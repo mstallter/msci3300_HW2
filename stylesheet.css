@@ -36,6 +36,7 @@ table, tr, th {
 .travelImg {
 	width: 500px;
 	height: 500px;
+	border: 2px solid-black;
 }
 
 
@@ -43,7 +44,7 @@ table, tr, th {
 	font-weight: bold;
 	font-family: Calibri;
 	position: relative;
-	top: 600px;
+	top: 800px;
 	left:-300px;
 }
 
@@ -66,7 +67,7 @@ table, tr, th {
 
 .amsterdamPic {
 	position: absolute;
-	top: 1000px;
+	top: 900px;
 	left: 0px;
 	height: 500px;
 }
